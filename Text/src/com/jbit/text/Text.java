@@ -7,6 +7,9 @@ public class Text {
 	 */
 	public static void main(String[] args) {
 		System.out.println("methods");
+		
+		System.out.println("名字:黑色");
+
 	}
 
 }
